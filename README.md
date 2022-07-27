@@ -1,1 +1,4 @@
 # DFA_Fractal_Gait
+DFA is a widely used non-linear method for the analysis of fractal (self-similarity) patterns.
+This Matlab-based script will provide DFA α-values.
+Traditional “colored noise” terminology is classified as follows: 1) 0 < α < 0.5 indicates an anti-correlated signal or anti-persistent long-range correlations, 2) α = 0.5 indicates no correlation and that the signal is a random uncorrelated signal or absence of long-range correlations (white noise), 3) 0.5 < α < 1.0 indicates positive auto-correlation in the signal, 4) α = 1.0 indicates strong positive correlations or persistent long-range correlations (1/f or pink noise), 5) α > 1.0 indicates the existence of correlations, but these do not follow a power-law form, and 6) α ≥ 1.5 indicates too much regularity/symmetry/uncorrelated increments (Brownian noise), which is also known as the integration of white noise.
